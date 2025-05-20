@@ -21,7 +21,7 @@ title                    : "컨트리뷰션 아카데미 생성형ai와 정적�
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "컨트리뷰션 아카데미 생성형ai와 정적페이지""
+description              : "컨트리뷰션 아카데미 생성형ai와 정적페이지"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
